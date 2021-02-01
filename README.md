@@ -12,6 +12,6 @@ In this repository 8 algorithms have been implemented, such as:
 4. [x] [G.Vernam Cipher](https://github.com/swmnnmt/Secure-Computing-Project/tree/main/%234%20G.Vernam)
 5. [x] [DES Encryption](https://github.com/swmnnmt/Secure-Computing-Project/tree/main/%235%20DES%20Encryption)
 6. [x] [DES Decription](https://github.com/swmnnmt/Secure-Computing-Project/tree/main/%236%20DES%20Decryption)
-7. [ ] 3DES Encryption] 
-8. [ ] DESX Encryption 
+7. [ ] [3DES Encryption](https://github.com/swmnnmt/Secure-Computing-Project/tree/main/%237%20Triple%20DES%20Encryption)
+8. [ ] RSA Encryption
 
