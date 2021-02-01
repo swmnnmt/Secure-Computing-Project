@@ -13,5 +13,5 @@ In this repository 8 algorithms have been implemented, such as:
 5. [x] [DES Encryption](https://github.com/swmnnmt/Secure-Computing-Project/tree/main/%235%20DES%20Encryption)
 6. [x] [DES Decription](https://github.com/swmnnmt/Secure-Computing-Project/tree/main/%236%20DES%20Decryption)
 7. [x] [3DES Encryption](https://github.com/swmnnmt/Secure-Computing-Project/tree/main/%237%20Triple%20DES%20Encryption)
-8. [ ] RSA Encryption
+8. [x] [RSA Decryption](https://github.com/swmnnmt/Secure-Computing-Project/tree/main/%238%20RSA%20Decryption)
 
