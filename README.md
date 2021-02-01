@@ -3,7 +3,7 @@
 In this repository 8 algorithms have been implemented, such as:
 
 1. [x] [Caesar Cipher](https://github.com/swmnnmt/Secure-Computing-Project/tree/main/%231%20Caeser%20Cipher)
-2. [ ] Monoalphabetic Substitution 
+2. [ ] [AES] 
 3. [ ] Playfair 
 4. [ ] G.Vernam Cipher 
 5. [ ] DES Encryption 
